@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Chandan Raju Padmaraju</h1>
-<h3 align="center">A passionate FullStack developer and Quality Assurance Engineer</h3>
+<h3 align="center">A passionate FullStack developer and a Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
